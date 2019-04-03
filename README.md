@@ -13,24 +13,23 @@ Links to Sections:
 * [More Information](#more-information)
 
 
-## codes
+## Codes
 
-* **Two Mathematica examples on creating quantum physical states and symbolic transformations 
+Examples on creating quantum physical states and symbolic transformations:
 ```
-SimpleHOMExample.nb: This program shows how to work with quantum states, and how the symbolic transformations work.
+    SimpleHOMExample.nb
+    SimpleHOMExample.py
+```
+These program show how to work with quantum states, and how the symbolic transformations work.
 	
-CalcSRV.nb: This is a full version which searches for 3-particle high-dimensionally entanged states with existing optical elements.
-
 ```
-
-* **Python examples 
+    CalcSRV.nb
+    CalcSRV.py
 ```
-SimpleHOMExample.py: It exactly corresponds to SimpleHOMExample.nb
-	
-CalcSRV.py: This is a example which checks whether a optical setup can produce 3-particle high-dimensionally entanged states. 
-(Currently, the example don't contain the searching experiments part. I will update the example.)
+* The Mathematica code is a full version which searches for 3-particle high-dimensionally entanged states with existing optical elements.
+* The python version shows how to check whether a optical setup can produce 3-particle maximally entanged states. (Currently, the example doesn't contain the searching experiments part.)
+ 
 
-```
 
 ## More infromation
 
