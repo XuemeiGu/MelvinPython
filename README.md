@@ -32,7 +32,7 @@ For more information about Melvin, and other helpful links, take a look at these
 * **[mathematcia codes](https://mariokrenn.wordpress.com/research/)**,
   two mathematcia examples of Melvin (SimpleHOMExample.nb and CalcSRV.nb), which are provided by [Dr. Mario Krenn](https://mariokrenn.wordpress.com/).
 
-* **[another python codes](https://github.com/StephenCzy/Melvin_python_version)**,
+* **[python codes](https://github.com/StephenCzy/Melvin_python_version)**,
   another python version of Melvin, which does not include criterias for checking maximun SRV and other complicated situations. 
   
 I appreciate all kinds of help, so thank you if you'd like to contribute. If you have any problems, please do not hesitate to contact me (email: njuxmgu@gmail.com).
