@@ -20,7 +20,7 @@ Examples on creating quantum physical states and symbolic transformations:
     SimpleHOMExample.nb
     SimpleHOMExample.py
 ```
-These program show how to work with quantum states, and how the symbolic transformations work.
+* The SimpleHOMExample program shows how to work with quantum states, and how the symbolic transformations work.
 	
 ```
     CalcSRV.nb
