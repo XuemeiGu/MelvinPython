@@ -1,6 +1,6 @@
 # Overview
 
-Melvin is an algorithm to design and find new useful experiments for quantum physicists, which was developed by [Dr. Mario Krenn](https://mariokrenn.wordpress.com/). The original codes are implemented in the software [Wolfram Mathematica](https://www.wolfram.com/mathematica/), which supports symbolic language very well. 
+Melvin is an algorithm to design and find new useful experiments for quantum physicists, which was developed by [Dr. Mario Krenn](https://mariokrenn.wordpress.com/). The original codes are implemented in the software [Wolfram Mathematica](https://www.wolfram.com/mathematica/), of which the important features is that it can do symbolic, as well as numerical calculations.
 
 Here I reimplement Melvin into Python environment, which is open source software. [SymPy](https://www.sympy.org/en/index.html) is a Python library, which can be used for symbolic mathematics.
 
