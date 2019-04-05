@@ -34,8 +34,8 @@ For more information about Melvin, and other helpful links, take a look at these
 * **[Mathematcia codes](https://mariokrenn.wordpress.com/research/)**,
   two mathematcia examples of Melvin (SimpleHOMExample.nb and CalcSRV.nb), which are provided by [Dr. Mario Krenn](https://mariokrenn.wordpress.com/).
   
-  * **[Experiments from Melvin’s solutions]
-  **[Experimental Greenberger–Horne–Zeilinger entanglement beyond qubits](https://www.nature.com/articles/s41566-018-0257-6)**,
+ **[Experiments from Melvin’s solutions]
+  * **[Experimental Greenberger–Horne–Zeilinger entanglement beyond qubits](https://www.nature.com/articles/s41566-018-0257-6)**,
   two mathematcia examples of Melvin (SimpleHOMExample.nb and CalcSRV.nb), which are provided by [Dr. Mario Krenn](https://mariokrenn.wordpress.com/).
 
   
