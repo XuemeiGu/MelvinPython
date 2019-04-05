@@ -32,7 +32,7 @@ For more information about Melvin, and other helpful links, take a look at these
   original paper for learning about Melvin
   
 * **[Mathematcia codes](https://mariokrenn.wordpress.com/research/)**,
-  in the mathematica_codes branch are two Mathematcia examples of Melvin provided by Dr. Mario Krenn.
+  in the mathematica_codes branch are two examples of Melvin provided by Dr. Mario Krenn.
   
  * **[Experiments from Melvin’s solutions](https://www.iqoqi-vienna.at/research/zeilinger-group/quantum-entanglement-in-high-dimensional-systems/)**, here I list some solutions from Melvin that have been realized in the laboratory of Anton Zeilinger at University Vienna & IQOQI Vienna.
  
