@@ -40,7 +40,7 @@ For more information about Melvin, and other helpful links, take a look at these
     
     2.**[Multi-photon entanglement in high dimensions](https://www.nature.com/articles/nphoton.2016.12)**
     
-    3.**[High-Dimensional Single-Photon Quantum Gates: Concepts and Experiments](https://www.nature.com/articles/nphoton.2016.12)**
+    3.**[High-Dimensional Single-Photon Quantum Gates: Concepts and Experiments](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.180510)**
   
 I appreciate all kinds of help, so thank you if you'd like to contribute. If you have any problems, please do not hesitate to contact me (email: njuxmgu@gmail.com).
  
