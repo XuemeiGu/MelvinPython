@@ -34,7 +34,7 @@ For more information about Melvin, and other helpful links, take a look at these
 * **[Mathematcia codes](https://mariokrenn.wordpress.com/research/)**,
   in the mathematica_codes branch are two examples of Melvin provided by Dr. Mario Krenn.
   
- * **Experiments from Melvin’s solutions**, here I list some solutions from Melvin that have been realized in the laboratory of [Anton Zeilinger](https://www.iqoqi-vienna.at/people/zeilinger-group/anton-zeilinger/) at University Vienna & [IQOQI Vienna](https://www.iqoqi-vienna.at/research/zeilinger-group/quantum-entanglement-in-high-dimensional-systems/).
+ * **Experiments from Melvin’s solutions**, here I list some solutions from Melvin that have been realized in the laboratory of [Prof. Dr. Anton Zeilinger](https://www.iqoqi-vienna.at/people/zeilinger-group/anton-zeilinger/) at University Vienna & [IQOQI Vienna](https://www.iqoqi-vienna.at/research/zeilinger-group/quantum-entanglement-in-high-dimensional-systems/).
  
     1.**[Experimental Greenberger–Horne–Zeilinger entanglement beyond qubits](https://www.nature.com/articles/s41566-018-0257-6)**
     
