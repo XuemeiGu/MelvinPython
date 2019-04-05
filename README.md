@@ -14,12 +14,14 @@ Examples on creating quantum physical states and symbolic transformations:
     SimpleHOMExample.nb
     SimpleHOMExample.py
 ```
-* The Mathematica code is a full version which searches for 3-particle high-dimensionally entanged states with existing optical elements.
-* The python version shows how to check whether a optical setup can produce 3-particle maximally entanged states. (Currently, the example doesn't contain the searching experiments part.)
-	
+* The CalcSRV program is a full version which searches for 3-particle high-dimensionally entanged states with existing optical elements.	
 ```
     CalcSRV.nb
     CalcSRV.py
+```
+* The SRVCaseCheck code is for checking whether a optical setup can produce 3-particle maximally entanged states. 
+```
+    SRVCaseCheck.py
 ```
 
 ## More infromation
@@ -33,7 +35,7 @@ For more information about Melvin, and other helpful links, take a look at these
   two mathematcia examples of Melvin (SimpleHOMExample.nb and CalcSRV.nb), which are provided by [Dr. Mario Krenn](https://mariokrenn.wordpress.com/).
 
 * **[python codes](https://github.com/StephenCzy/Melvin_python_version)**,
-  another python version of Melvin, which was wrong (some functions don't work and buggers) and also does not include criterias for checking maximun SRV and other complicated situations. 
+  another python version of Melvin, which was not correct and also does not include criterias for checking maximun SRV and other complicated situations. 
   
 I appreciate all kinds of help, so thank you if you'd like to contribute. If you have any problems, please do not hesitate to contact me (email: njuxmgu@gmail.com).
  
