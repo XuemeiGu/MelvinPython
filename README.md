@@ -7,7 +7,7 @@ Here I reimplement Melvin into [Python](https://www.python.org/) environment, wh
 
 ## Codes
 
-Examples on creating quantum physical states and symbolic transformations:
+Examples on creating quantum physical states and symbolic transformations (mathematica version in the branch ["Mathematica_Codes"](https://github.com/XuemeiGu/MelvinPython/tree/Mathematica_Codes)):
 
 * The SimpleHOMExample program shows how to work with quantum states, and how the symbolic transformations work.
 ```
@@ -22,6 +22,12 @@ Examples on creating quantum physical states and symbolic transformations:
 * The SRVCaseCheck code is for checking whether a optical setup can produce 3-particle maximally entanged states. 
 ```
     SRVCaseCheck.py
+```
+
+* Here I add one more code for checking the SchmidtRankVector of a 4-particle maximally state, more details refer to [Structure of Multidimensional Entanglement in Multipartite Systems](https://doi.org/10.1103/PhysRevLett.110.030501). 
+```
+    Calc4ParticleSRV.nb
+    Calc4ParticleSRV.py
 ```
 
 ## More infromation
