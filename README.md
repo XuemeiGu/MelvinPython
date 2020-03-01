@@ -1,6 +1,6 @@
 # Overview
 
-Here are the mathematica version of Melvin written by [Mario Krenn](https://mariokrenn.wordpress.com/)
+Here are the mathematica version of Melvin (SimpleHOMExample.nb and CalcSRV.nb) by [Mario Krenn](https://mariokrenn.wordpress.com/)
 
 ## Codes
 
