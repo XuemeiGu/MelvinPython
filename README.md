@@ -15,7 +15,7 @@ Examples on creating quantum physical states and symbolic transformations:
     CalcSRV.nb
 ```
 
-* I just add one more very simple code -- Calc4ParticleSRV, for checking what is the SchmidtRankVector of a given maximally quantum state (I only consider cases in the same coefficient). 
+* I just add one more very simple Calc4ParticleSRV code for checking what is the SchmidtRankVector of a given maximally 4-particle quantum state (I only consider cases in the same coefficient). 
 ```
     Calc4ParticleSRV.nb
 ```
