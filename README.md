@@ -17,7 +17,7 @@ To run the code from this repository, you need to install SymPy - **version 1.3*
 
 ## Codes
 
-Examples on creating quantum physical states and symbolic transformations: \
+Examples on creating quantum states and symbolic transformations: \
 Related Mathematica codes are in the branch [Mathematica_Codes](https://github.com/XuemeiGu/MelvinPython/tree/Mathematica_Codes):
 
 * The SimpleHOMExample program shows how to work with quantum states, and how the symbolic transformations work.
@@ -25,17 +25,17 @@ Related Mathematica codes are in the branch [Mathematica_Codes](https://github.c
     SimpleHOMExample.nb
     SimpleHOMExample.py
 ```
-* The CalcSRV program is a full version which searches for 3-particle high-dimensionally entanged states with existing optical elements.	
+* The CalcSRV program is a full version which searches for 3-particle high-dimensionally entangled states with existing optical elements.	
 ```
     CalcSRV.nb
     CalcSRV.py
 ```
-* The SRVCaseCheck code is for checking whether a optical setup can produce 3-particle maximally entanged states. 
+* The SRVCaseCheck code is for checking whether a optical setup can produce 3-particle maximally entangled states. 
 ```
     SRVCaseCheck.py
 ```
 
-* Here I add one more code for checking the SchmidtRankVector of a 4-particle maximally state\
+* Here I add one more code for checking the SchmidtRankVector of a 4-particle maximally entangled state\
   More details about Schmidt Rank Vectors, refer to [Structure of Multidimensional Entanglement in Multipartite Systems](https://doi.org/10.1103/PhysRevLett.110.030501). 
 ```
     Calc4ParticleSRV.nb
