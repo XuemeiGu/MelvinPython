@@ -32,7 +32,7 @@ Examples on creating quantum physical states and symbolic transformations (mathe
     Calc4ParticleSRV.py
 ```
 
-## More infromation
+## More infromation about Melvin
 
 For more information about Melvin, and other helpful links, take a look at these resources:
 
@@ -50,7 +50,19 @@ For more information about Melvin, and other helpful links, take a look at these
     
     3.**[High-Dimensional Single-Photon Quantum Gates: Concepts and Experiments](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.180510)**
   
-I appreciate all kinds of help, so thank you if you'd like to contribute. If you have any problems, please do not hesitate to contact me (email: njuxmgu@gmail.com or xuemei.gu@mpl.mpg.de).
+
+## How to cite
+if you want to cite for your work that uses the codes:
+
+@misc{melvin_code,
+  author = {Xuemei Gu},
+  title = {Symbolic-based Python Version of Melvin: Automated Search for new Quantum Experiments},
+  year = {2023},
+  howpublished = {\url{[https://github.com/XuemeiGu/MelvinPython](https://github.com/XuemeiGu/MelvinPython)}},
+  note = {Accessed: 2019-04-03}
+}
+
+If you have any problems, please do not hesitate to contact me (email: njuxmgu@gmail.com or xuemei.gu@mpl.mpg.de).
  
  
 
