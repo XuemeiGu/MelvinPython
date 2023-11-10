@@ -52,11 +52,11 @@ For more information about Melvin, and other helpful links, take a look at these
   
 
 ## How to cite
-if you want to cite for your work that uses the codes:
+if you want to cite the code for your work, you can use the following:
 ```
 @misc{melvin_code,
   author = {Xuemei Gu},
-  title = {Symbolic-based Python Version of Melvin: Automated Search for new Quantum Experiments},
+  title = {Melvin: Automated Search for new Quantum Experiments -- Python Version},
   year = {2019},
   howpublished = {\url{https://github.com/XuemeiGu/MelvinPython}},
   note = {Accessed: 2019-04-03}
