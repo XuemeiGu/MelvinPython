@@ -1,15 +1,24 @@
-# Overview
+# Melvin
 
-Melvin is an algorithm to automatically design and find new useful experiments for quantum physicists, which was developed by [Dr. Mario Krenn](https://mariokrenn.wordpress.com/). The original codes are implemented in the software [Wolfram Mathematica](https://www.wolfram.com/mathematica/), of which the important features is that it can do symbolic, as well as numerical calculations.
+<img src="https://github.com/XuemeiGu/MelvinPython/assets/37003667/7748ab20-3a26-4a3d-bd34-629b676d2b29" width="200"/>
 
-Here I reimplement Melvin into [Python](https://www.python.org/) environment, which is open source software. [SymPy](https://www.sympy.org/en/index.html) is a Python library, which can be used for symbolic mathematics.
+[Automated Search for new Quantum Experiments](https://doi.org/10.1103/PhysRevLett.116.090405)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Phys. Rev. Lett. 116(9), 090405 (2016)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Mario Krenn, Mehul Malik, Robert Fickler, Radek Lapkiewicz, and Anton Zeilinger*
+
+
+Melvin is an innovative computer program specifically designed to assist quantum physicists in the development and discovery of novel and beneficial quantum experiments. It was developed by [Mario Krenn](https://mariokrenn.wordpress.com/), marking a significant advancement in the field of quantum physics.
+
+Here, I have partially reimplemented Melvin, originally developed in Mathematica, in Python utilizing SymPy for symbolic mathematics.
 
 ## Prerequisites:
-To run the code, you first need to install sympy - The version of sympy used in this repository is 1.3
+
+To run the code from this repository, you need to install SymPy - **version 1.3**.
 
 ## Codes
 
-Examples on creating quantum physical states and symbolic transformations (mathematica version in the branch ["Mathematica_Codes"](https://github.com/XuemeiGu/MelvinPython/tree/Mathematica_Codes)):
+Examples on creating quantum physical states and symbolic transformations: \
+Related Mathematica codes are in the branch [Mathematica_Codes](https://github.com/XuemeiGu/MelvinPython/tree/Mathematica_Codes):
 
 * The SimpleHOMExample program shows how to work with quantum states, and how the symbolic transformations work.
 ```
@@ -26,30 +35,12 @@ Examples on creating quantum physical states and symbolic transformations (mathe
     SRVCaseCheck.py
 ```
 
-* Here I add one more code for checking the SchmidtRankVector of a 4-particle maximally state, more details refer to [Structure of Multidimensional Entanglement in Multipartite Systems](https://doi.org/10.1103/PhysRevLett.110.030501). 
+* Here I add one more code for checking the SchmidtRankVector of a 4-particle maximally state\
+  More details about Schmidt Rank Vectors, refer to [Structure of Multidimensional Entanglement in Multipartite Systems](https://doi.org/10.1103/PhysRevLett.110.030501). 
 ```
     Calc4ParticleSRV.nb
     Calc4ParticleSRV.py
 ```
-
-## More infromation about Melvin
-
-For more information about Melvin, and other helpful links, take a look at these resources:
-
-* **[Automated Search for new Quantum Experiments](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.090405)**,
-  original paper for learning about Melvin
-  
-* **[Mathematcia codes](https://mariokrenn.wordpress.com/research/)**,
-  in the mathematica_codes branch are two examples of Melvin provided by Dr. Mario Krenn.
-  
- * **Experiments from Melvin’s solutions**, here I list some solutions from Melvin that have been realized in the laboratory of [Prof. Dr. Anton Zeilinger](https://www.iqoqi-vienna.at/people/zeilinger-group/anton-zeilinger/) at University Vienna & [IQOQI Vienna](https://www.iqoqi-vienna.at/research/zeilinger-group/quantum-entanglement-in-high-dimensional-systems/).
- 
-    1.**[Experimental Greenberger–Horne–Zeilinger entanglement beyond qubits](https://www.nature.com/articles/s41566-018-0257-6)**
-    
-    2.**[Multi-photon entanglement in high dimensions](https://www.nature.com/articles/nphoton.2016.12)**
-    
-    3.**[High-Dimensional Single-Photon Quantum Gates: Concepts and Experiments](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.180510)**
-  
 
 ## How to cite
 if you want to cite the code for your work, you can use the following:
