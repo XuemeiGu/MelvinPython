@@ -53,7 +53,7 @@ For more information about Melvin, and other helpful links, take a look at these
 
 ## How to cite
 if you want to cite for your work that uses the codes:
-
+```
 @misc{melvin_code,
   author = {Xuemei Gu},
   title = {Symbolic-based Python Version of Melvin: Automated Search for new Quantum Experiments},
@@ -61,6 +61,7 @@ if you want to cite for your work that uses the codes:
   howpublished = {\url{[https://github.com/XuemeiGu/MelvinPython](https://github.com/XuemeiGu/MelvinPython)}},
   note = {Accessed: 2019-04-03}
 }
+```
 
 If you have any problems, please do not hesitate to contact me (email: njuxmgu@gmail.com or xuemei.gu@mpl.mpg.de).
  
