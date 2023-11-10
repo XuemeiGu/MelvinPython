@@ -54,7 +54,8 @@ if you want to cite the code for your work, you can use the following:
 }
 ```
 
-If you have any problems, please do not hesitate to contact me (email: njuxmgu@gmail.com or xuemei.gu@mpl.mpg.de).
+If you have any problems, please do not hesitate to contact me\
+Email: njuxmgu@gmail.com or xuemei.gu@mpl.mpg.de
  
  
 
