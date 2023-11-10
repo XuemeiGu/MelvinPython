@@ -7,7 +7,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Mario Krenn, Mehul Malik, Robert Fickler, Radek Lapkiewicz, and Anton Zeilinger*
 
 
-Melvin is an innovative computer program specifically designed to assist quantum physicists in the development and discovery of novel and beneficial quantum experiments. It was developed by [Mario Krenn](https://mariokrenn.wordpress.com/), marking a significant advancement in the field of quantum physics.
+Melvin is an innovative computer program designed to assist quantum physicists in the development and discovery of novel and beneficial quantum experiments. It was developed by [Mario Krenn](https://mariokrenn.wordpress.com/), marking a significant advancement in the field of quantum physics.
 
 Here, I have partially reimplemented Melvin, originally developed in Mathematica, in Python utilizing SymPy for symbolic mathematics.
 
