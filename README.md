@@ -57,8 +57,8 @@ if you want to cite for your work that uses the codes:
 @misc{melvin_code,
   author = {Xuemei Gu},
   title = {Symbolic-based Python Version of Melvin: Automated Search for new Quantum Experiments},
-  year = {2023},
-  howpublished = {\url{[https://github.com/XuemeiGu/MelvinPython](https://github.com/XuemeiGu/MelvinPython)}},
+  year = {2019},
+  howpublished = {\url{https://github.com/XuemeiGu/MelvinPython}},
   note = {Accessed: 2019-04-03}
 }
 ```
